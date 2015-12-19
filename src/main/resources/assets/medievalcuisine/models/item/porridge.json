@@ -1,0 +1,6 @@
+{
+    "parent":"medievalcuisine:items/standard_item",
+    "textures": {
+        "layer0":"medievalcuisine:items/porridge"
+    }
+}
