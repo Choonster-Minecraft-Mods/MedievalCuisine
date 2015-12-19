@@ -1,5 +1,5 @@
 {
-    "parent":"medievalcuisine:items/standard_item",
+    "parent":"medievalcuisine:item/standard_item",
     "textures": {
         "layer0":"medievalcuisine:items/flour"
     }
